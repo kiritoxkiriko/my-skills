@@ -1,0 +1,3 @@
+interface:
+  display_name: "JP Goods Pricing Table"
+  short_description: "Extract Japanese merch info and build pricing tables"
